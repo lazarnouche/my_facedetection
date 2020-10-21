@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114611446099",
+    "firebase_url": "https://bischat-a11bf.firebaseio.com",
+    "project_id": "bischat-a11bf",
+    "storage_bucket": "bischat-a11bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114611446099:android:b403682add4a8f229141a6",
+        "android_client_info": {
+          "package_name": "com.sluminal.bischat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114611446099-ir2jc3td963hkne6d5n2siheqkddsn6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJnEQqeMgW886BMn3Whmv222QqeznTkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114611446099-ir2jc3td963hkne6d5n2siheqkddsn6t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114611446099-ahqvcsucrq1673a403kjnrboerbbat72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sluminal.bischat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
